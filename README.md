@@ -1,5 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=romfis91&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=599&card_height=150)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=romfis91&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=599&card_height=150" alt="GitHub Streak" />
+</a>
 <p align="center">
   <a href="https://codewars.com">
     <img src="https://www.codewars.com/users/romfis91/badges/small" alt="Codewars" />
