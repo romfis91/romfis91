@@ -61,7 +61,7 @@ Beyond IC work, I have experience leading teams of 6+ engineers — owning archi
 
 ---
 <p align="center">
-  <a href="mailto:romfis.dev@gmail.com">✉️ Email</a>•&nbsp;&nbsp; 
+  <a href="mailto:romfis.dev@gmail.com">✉️ Email</a>&nbsp;&nbsp;•&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/roman-bikbaiev/">🔗 LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp; 
   <a href="https://www.upwork.com/freelancers/~01d5d96aac5006b9a6">💼 Upwork</a> &nbsp;&nbsp;•&nbsp;&nbsp; 
   <a href="https://www.codewars.com/users/romfis91">⚔️ Codewars</a>
