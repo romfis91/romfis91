@@ -42,14 +42,12 @@ Beyond IC work, I have experience leading teams of 6+ engineers — owning archi
 
 ### 🛠️ My Stack 
 
-<div align="center">
 | Category | Technologies |
 | :--- | :--- |
 | **Backend & API** | NestJS, Node.js, Laravel, Symfony, PHP, Go, REST, GraphQL, WebSockets |
 | **Frontend & UI** | React, Vue 3, TypeScript (ES6+), Web Workers, Three.js (WebGL), TailwindCSS |
 | **Data & Messaging** | PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch, RabbitMQ, Pub/Sub |
 | **Infrastructure** | Docker, AWS, GCP, CI/CD Pipelines, Terraform, Nginx, Apache |
-</div>
 ---
 
 ### 📈 Technical Impact (Key Highlights)
